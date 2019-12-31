@@ -1,43 +1,20 @@
 .background {
-background-color:#000000;
-    background-repeat: repeat-y; /* for vertical repeat */
-    background-repeat: repeat-x; /* for horizontal repeat */
-    height: 350px;
-    /* margin-top: 50px; */
-    padding: 2em 2em 2em 2em;
-    
+  background: center no-repeat url(https://webstockreview.net/images/brick-clipart-super-mario-19.png);
 }
 
 .logo {
-/*   background-image: url('http://t15.deviantart.net/NTvRKQ3TeYH5CdZZd93h9RTvRNM=/300x200/filters:fixed_height(100,100):origin()/pre08/4315/th/pre/f/2015/279/7/c/amalgam__devilbat_by_bobkitty23-d9c6nnu.png'); */
-  height: 200px;
-  width: 100px;
-/*   border: 1px solid red;
-   */  background-repeat: no-repeat;
-  padding-top: 25px;
+  background-image: url(https://webstockreview.net/images/brick-clipart-super-mario-19.png);
 }
 
 .progressBar {
-  background-color: rgb(238, 255, 65);
-  border: 1px solid white;
-  width:80%;
-  height: 25px;
-  /* position: fixed; */
-  /* top: 1em; */
-  margin: 0 3em 0 3em;
-  padding: auto;
-  text-align: center;
+  background-color: rgb(222, 222, 222);
 }
 
 .splash {
-  background-image: url(splash.png);
+  background-image: url(https://webstockreview.net/images/brick-clipart-super-mario-19.png);
 }
 
 .watermark {
-  background-image: url("https://images.squarespace-cdn.com/content/v1/5514881ae4b0413cd5ddc494/1552676901240-35SQK2IM2F8MTTGLQTMR/ke17ZwdGBToddI8pDm48kFIi-n6YoyUO0gZ0irpQN89Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxqoMqKGLxaN_byvoDfks-7_HJeJm2pU1-azFKdn0aBuH3IIoAMXOsF_jYR8gm-3Ho/Mood+Media+II.png?format=1000wg");
-height: 57px;
-width: 57px;
-    background-repeat: no-repeat;
-  float: right;
-  bottom: 0px;
+  background-image: url(https://webstockreview.net/images/brick-clipart-super-mario-19.png);
+  background-size: 57px 57px;
 }

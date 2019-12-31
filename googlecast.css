@@ -1,0 +1,20 @@
+.background {
+  background: center no-repeat url("https://webstockreview.net/images/brick-clipart-super-mario-19.png");
+}
+
+.logo {
+  background-image: url(logo.png);
+}
+
+.progressBar {
+  background-color: rgb(238, 255, 65);
+}
+
+.splash {
+  background-image: url("https://webstockreview.net/images/brick-clipart-super-mario-19.png");
+}
+
+.watermark {
+  background-image: url("https://webstockreview.net/images/brick-clipart-super-mario-19.png");
+  background-size: 57px 57px;
+}

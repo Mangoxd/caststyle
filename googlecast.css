@@ -1,20 +1,43 @@
 .background {
-  background: center no-repeat url(https://webstockreview.net/images/brick-clipart-super-mario-19.png);
+background-color:#000000;
+    background-repeat: repeat-y; /* for vertical repeat */
+    background-repeat: repeat-x; /* for horizontal repeat */
+    height: 350px;
+    /* margin-top: 50px; */
+    padding: 2em 2em 2em 2em;
+    
 }
 
 .logo {
-  background-image: url(https://webstockreview.net/images/brick-clipart-super-mario-19.png);
+/*   background-image: url('http://t15.deviantart.net/NTvRKQ3TeYH5CdZZd93h9RTvRNM=/300x200/filters:fixed_height(100,100):origin()/pre08/4315/th/pre/f/2015/279/7/c/amalgam__devilbat_by_bobkitty23-d9c6nnu.png'); */
+  height: 200px;
+  width: 100px;
+/*   border: 1px solid red;
+   */  background-repeat: no-repeat;
+  padding-top: 25px;
 }
 
 .progressBar {
-  background-color: rgb(222, 222, 222);
+  background-color: rgb(238, 255, 65);
+  border: 1px solid white;
+  width:80%;
+  height: 25px;
+  /* position: fixed; */
+  /* top: 1em; */
+  margin: 0 3em 0 3em;
+  padding: auto;
+  text-align: center;
 }
 
 .splash {
-  background-image: url(https://webstockreview.net/images/brick-clipart-super-mario-19.png);
+  background-image: url(splash.png);
 }
 
 .watermark {
-  background-image: url(https://webstockreview.net/images/brick-clipart-super-mario-19.png);
-  background-size: 57px 57px;
+  background-image: url("http://s13.postimg.org/w21t2t7g3/mood_media.png");
+height: 57px;
+width: 57px;
+    background-repeat: no-repeat;
+  float: right;
+  bottom: 0px;
 }
